@@ -1,0 +1,9 @@
+{
+  "name": "SSG AI",
+  "description": "A high-performance, world-class AI interface powered by Google Gemini 3, featuring advanced search grounding, image generation, and multi-modal interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
